@@ -1,8 +1,10 @@
 Authentification & autorisation
 Token d'accès pour les APIs concernés, NE PAS PARTAGEZ CE TOKEN.
 
+
 créer un venv et dedans installer :
 python3 -m pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib beautifulsoup4
+
 
 Lancer le quickstart pour générer un Token. Si c'est la première fois vous serez redirigez sur une page web pour vous authentifier et créer le credentials nécessaire.
 
@@ -46,15 +48,23 @@ from googleapiclient.errors import HttpError
 Situation de l'API de l'application:
 
 callGMail.py :
+
 getCreds() #The file token.json stores the user's access and refresh tokens, and is created automatically when the authorization flow completes for the first time.
+
 getMessageById(message_id) #Récupère un message par son ID.
+
 getMessagePayload(message_id) #Récupère et décode le texte d'un message Gmail.
+
 findBodyByMimeType(payload, mime_type) #Recherche et décode récursivement une partie MIME précise.
+
 decode_message_body(payload) #Décode le texte d'un payload Gmail, y compris les messages multipart.
+
 getLabelsIdByName(label_name) #Récupère l'ID d'un label Gmail par son nom.
+
 setLabels(message_id, label_ids) #Ajoute des labels à un message Gmail.
 
 parseHtml.py :
+
 parse_html_message(html) #Conserve le texte et les URLs d'un message HTML.
 
 TODO: 
