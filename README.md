@@ -12,11 +12,12 @@ Revenez à la création de l'ID client :
 
 * Type d'application : Application de bureau (Desktop app).
 
-* Donnez-lui un nom (ex: Gmail Quickstart) et cliquez sur Créer.
+* Donnez-lui un nom (ex: MailApp) et cliquez sur Créer.
 
 Dans la liste de vos identifiants OAuth, repérez celui que vous venez de créer.
 
 Cliquez sur l'icône de téléchargement (la petite flèche vers le bas) située à droite de la ligne. Cela va télécharger un fichier JSON (souvent nommé avec une suite de chiffres et lettres).
+
 
 Renommez ce fichier téléchargé exactement en : credentials.json.
 Déplacez ce fichier dans le même dossier où se trouve votre script quickstart.py
