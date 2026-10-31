@@ -2,11 +2,34 @@ Authentification & autorisation
 Token d'accès pour les APIs concernés, NE PAS PARTAGEZ CE TOKEN.
 
 
+Avant même de faire quoi que ce soit il vous faudra un fichier credentials.json que vous obtenez sur la console google cloud, assurez-vous d'avoir bien activé l'API Gmail (allez dans API et services > Bibliothèque, cherchez Gmail API et cliquez sur Activer). Allez dans API et services > Identifiants (Credentials). Cliquez sur Créer des identifiants en haut, puis sélectionnez ID client OAuth. Si on vous demande de configurer l'écran de consentement OAuth au préalable :
+
+* Choisissez Externe (sauf si vous êtes sur un compte Google Workspace d'entreprise/école).
+
+* Remplissez le nom de l'app et votre e-mail, puis enregistrez (vous pouvez passer les étapes facultatives).
+
+Revenez à la création de l'ID client :
+
+* Type d'application : Application de bureau (Desktop app).
+
+* Donnez-lui un nom (ex: Gmail Quickstart) et cliquez sur Créer.
+
+Dans la liste de vos identifiants OAuth, repérez celui que vous venez de créer.
+
+Cliquez sur l'icône de téléchargement (la petite flèche vers le bas) située à droite de la ligne. Cela va télécharger un fichier JSON (souvent nommé avec une suite de chiffres et lettres).
+
+Renommez ce fichier téléchargé exactement en : credentials.json.
+Déplacez ce fichier dans le même dossier où se trouve votre script quickstart.py
+
+
+Il faudra renseigner l'adresse mail avec laquelle vous voulez utilisez l'application dans Google Auth Platform/Audience, vous ajoutez un utilisateur test.
+
+
 créer un venv et dedans installer :
 python3 -m pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib beautifulsoup4
 
 
-Lancer le quickstart pour générer un Token. Si c'est la première fois vous serez redirigez sur une page web pour vous authentifier et créer le credentials nécessaire.
+Lancer le quickstart pour générer un Token. Si c'est la première fois vous serez redirigez sur une page web pour vous authentifier et créer le token.
 
 SCOPES = ["https://mail.google.com/"]
 
@@ -59,3 +82,4 @@ TODO:
   Mettre en fonction TFIDFmail pour faciliter la lecture dans le main.
   Faire les premiers appellent à callGMail pour trier les mails dans le gmail pro.
   Faire en sorte d'ajouter au fichier json les nouveaux mails BIEN labellisés.
+

@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-def parse_html_message(html):
+def parseHtmlMessage(html):
     """Conserve le texte et les URLs d'un message HTML."""
     soup = BeautifulSoup(html, "html.parser")
 

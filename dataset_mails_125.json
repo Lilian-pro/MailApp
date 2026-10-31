@@ -1,0 +1,627 @@
+[
+    {
+        "label": 1,
+        "objet": "Suite de votre candidature - Offre d'embauche Sanofi",
+        "corpus": "Bonjour Hugo,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Consultant Cybersécurité chez Sanofi.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Consultant Cybersécurité\n- Rémunération globale : 42 000 € bruts/an\n- Prise de poste : 01/03/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines Sanofi"
+    },
+    {
+        "label": 1,
+        "objet": "Bienvenue chez TechSolutions ! Proposition formelle",
+        "corpus": "Bonjour Camille,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Administrateur Systèmes et Réseaux, nous avons le plaisir de retenir votre candidature pour intégrer TechSolutions.\n\nVous trouverez le détail financier (28 000 (Alternance) € brut) et la date d'intégration (26/11/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement TechSolutions"
+    },
+    {
+        "label": 4,
+        "objet": "Accusé de réception - Candidature Chef de Projet IT",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Chef de Projet IT chez Axa a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 3,
+        "objet": "Réponse à votre candidature - Sanofi",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Alternant - Bac+2/+3 Développement Software au sein de nos équipes Sanofi et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition Sanofi"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de réception de votre candidature sur Thales",
+        "corpus": "Nous avons bien reçu votre candidature pour l'offre Data Analyst et nous la transmettons au recruteur. Thales devrait vous en confirmer la bonne réception et vous contacter directement pour la suite.\n\nSoyez préparé si votre candidature est retenue en vous informant sur l'entreprise. Présentation générale, chiffres clés, avantages, actualités, étapes de recrutement.... Partez à la pêche aux infos !"
+    },
+    {
+        "label": 1,
+        "objet": "Suite de votre candidature - Offre d'embauche Decathlon",
+        "corpus": "Bonjour Alexandre,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Administrateur Systèmes et Réseaux, nous avons le plaisir de retenir votre candidature pour intégrer Decathlon.\n\nVous trouverez le détail financier (32 000 € brut) et la date d'intégration (13/05/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Decathlon"
+    },
+    {
+        "label": 2,
+        "objet": "Invitation entretien - Ingénieur Cloud chez Schneider Electric",
+        "corpus": "Bonjour Enzo,\n\nSuite à l'étude de votre CV pour la fonction de Ingénieur Cloud, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement Schneider Electric"
+    },
+    {
+        "label": 2,
+        "objet": "Invitation entretien - Consultant Cybersécurité chez TotalEnergies",
+        "corpus": "Bonjour Sarah,\n\nNous avons bien analysé votre dossier pour le rôle de Consultant Cybersécurité. Nous aimerions poursuivre l'aventure avec vous en planifiant un entretien individuel.\n\nMerci de nous confirmer si vous seriez disponible ce vendredi à 15h. Le cas échéant, un lien Teams vous sera transmis.\n\nExcellente journée,\nRH TotalEnergies"
+    },
+    {
+        "label": 4,
+        "objet": "Votre candidature a bien été envoyée à Capgemini",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Product Owner chez Capgemini a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 2,
+        "objet": "Entretien pour le poste de Consultant Cybersécurité",
+        "corpus": "Bonjour Julie,\n\nVotre candidature pour le poste de Consultant Cybersécurité chez Airbus a retenu toute notre attention. Vos compétences et votre parcours correspondent tout à fait au profil que nous recherchons.\n\nAfin de faire plus ample connaissance et d'échanger sur vos motivations, nous serions ravis de vous inviter à un entretien d'embauche en nos locaux de Paris ou en visioconférence.\n\nCréneaux disponibles :\n- Mardi à 10h00\n- Jeudi à 14h30\n- Vendredi à 11h00\n\nMerci de nous indiquer la date qui vous convient le mieux par retour de mail.\n\nBien cordialement,\nL'équipe RH - Airbus"
+    },
+    {
+        "label": 1,
+        "objet": "Suite de votre candidature - Offre d'embauche Axa",
+        "corpus": "Bonjour Léa,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Stagiaire Business Development chez Axa.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Stagiaire Business Development\n- Rémunération globale : 50 000 € bruts/an\n- Prise de poste : 10/11/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines Axa"
+    },
+    {
+        "label": 2,
+        "objet": "Suite candidature Capgemini : Proposition d'entretien",
+        "corpus": "Bonjour Julien,\n\nNous avons bien analysé votre dossier pour le rôle de Consultant Cybersécurité. Nous aimerions poursuivre l'aventure avec vous en planifiant un entretien individuel.\n\nMerci de nous confirmer si vous seriez disponible ce vendredi à 15h. Le cas échéant, un lien Teams vous sera transmis.\n\nExcellente journée,\nRH Capgemini"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de dépôt de dossier - Ubisoft",
+        "corpus": "Nous avons bien reçu votre candidature pour l'offre Stagiaire Business Development et nous la transmettons au recruteur. Ubisoft devrait vous en confirmer la bonne réception et vous contacter directement pour la suite.\n\nSoyez préparé si votre candidature est retenue en vous informant sur l'entreprise. Présentation générale, chiffres clés, avantages, actualités, étapes de recrutement.... Partez à la pêche aux infos !"
+    },
+    {
+        "label": 3,
+        "objet": "Votre candidature pour le poste de Data Scientist",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Data Scientist au sein de nos équipes Sanofi et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition Sanofi"
+    },
+    {
+        "label": 4,
+        "objet": "Bien reçu ! Candidature Stagiaire Business Development",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Stagiaire Business Development chez Axa a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 2,
+        "objet": "Votre candidature pour Développeur Python - Entretien",
+        "corpus": "Bonjour Alexandre,\n\nSuite à l'étude de votre CV pour la fonction de Développeur Python, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement Capgemini"
+    },
+    {
+        "label": 1,
+        "objet": "Proposition d'embauche - Ingénieur DevOps",
+        "corpus": "Bonjour Léa,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Ingénieur DevOps chez Ubisoft.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Ingénieur DevOps\n- Rémunération globale : 28 000 (Alternance) € bruts/an\n- Prise de poste : 09/02/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines Ubisoft"
+    },
+    {
+        "label": 1,
+        "objet": "Bienvenue chez Thales ! Proposition formelle",
+        "corpus": "Bonjour Maxime,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Consultant Cybersécurité, nous avons le plaisir de retenir votre candidature pour intégrer Thales.\n\nVous trouverez le détail financier (45 000 € brut) et la date d'intégration (16/02/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Thales"
+    },
+    {
+        "label": 4,
+        "objet": "Bien reçu ! Candidature Administrateur Systèmes et Réseaux",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Administrateur Systèmes et Réseaux chez Sanofi a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 2,
+        "objet": "Échange avec SNCF Digital - Poste Ingénieur Cloud",
+        "corpus": "Bonjour Thomas,\n\nNous avons bien analysé votre dossier pour le rôle de Ingénieur Cloud. Nous aimerions poursuivre l'aventure avec vous en planifiant un entretien individuel.\n\nMerci de nous confirmer si vous seriez disponible ce vendredi à 15h. Le cas échéant, un lien Teams vous sera transmis.\n\nExcellente journée,\nRH SNCF Digital"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature Sanofi - Développeur Full Stack",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Développeur Full Stack au sein de nos équipes Sanofi et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition Sanofi"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de dépôt de dossier - Capgemini",
+        "corpus": "Accusé de réception : Nous confirmons la bonne transmission de vos documents (CV et lettre de motivation) pour l'opportunité Data Analyst auprès de Capgemini.\n\nNos équipes d'évaluation analysent actuellement votre dossier. Vous recevrez une notification dès qu'une suite sera donnée à votre demande.\n\nMerci d'avoir postulé chez nous !"
+    },
+    {
+        "label": 4,
+        "objet": "Votre candidature a bien été envoyée à Société Générale",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Ingénieur Cloud chez Société Générale a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 1,
+        "objet": "Bienvenue chez Veolia ! Proposition formelle",
+        "corpus": "Bonjour Hugo,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Chef de Projet IT, nous avons le plaisir de retenir votre candidature pour intégrer Veolia.\n\nVous trouverez le détail financier (45 000 € brut) et la date d'intégration (26/04/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Veolia"
+    },
+    {
+        "label": 2,
+        "objet": "Entretien pour le poste de Ingénieur DevOps",
+        "corpus": "Bonjour Alexandre,\n\nVotre candidature pour le poste de Ingénieur DevOps chez Capgemini a retenu toute notre attention. Vos compétences et votre parcours correspondent tout à fait au profil que nous recherchons.\n\nAfin de faire plus ample connaissance et d'échanger sur vos motivations, nous serions ravis de vous inviter à un entretien d'embauche en nos locaux de Toulouse ou en visioconférence.\n\nCréneaux disponibles :\n- Mardi à 10h00\n- Jeudi à 14h30\n- Vendredi à 11h00\n\nMerci de nous indiquer la date qui vous convient le mieux par retour de mail.\n\nBien cordialement,\nL'équipe RH - Capgemini"
+    },
+    {
+        "label": 2,
+        "objet": "Votre candidature pour Stagiaire Business Development - Entretien",
+        "corpus": "Bonjour Chloé,\n\nSuite à l'étude de votre CV pour la fonction de Stagiaire Business Development, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement Ubisoft"
+    },
+    {
+        "label": 4,
+        "objet": "Bien reçu ! Candidature Alternant - Bac+2/+3 Développement Software",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Alternant - Bac+2/+3 Développement Software chez TotalEnergies a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de réception de votre candidature sur SNCF Digital",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de UX/UI Designer chez SNCF Digital a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 1,
+        "objet": "Félicitations ! Votre offre pour le poste de Ingénieur Cloud",
+        "corpus": "Bonjour Lucas,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Ingénieur Cloud chez Veolia.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Ingénieur Cloud\n- Rémunération globale : 28 000 (Alternance) € bruts/an\n- Prise de poste : 08/07/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines Veolia"
+    },
+    {
+        "label": 2,
+        "objet": "Suite candidature Veolia : Proposition d'entretien",
+        "corpus": "Bonjour Hugo,\n\nSuite à l'étude de votre CV pour la fonction de Ingénieur IA, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement Veolia"
+    },
+    {
+        "label": 4,
+        "objet": "Votre candidature a bien été envoyée à Carrefour Tech",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Stagiaire Business Development chez Carrefour Tech a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 3,
+        "objet": "Réponse à votre candidature - Veolia",
+        "corpus": "Bonjour Lucas,\n\nMerci pour l'intérêt que vous portez à Veolia et pour le temps consacré à notre processus de recrutement pour le poste de Chef de Projet IT.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH Veolia"
+    },
+    {
+        "label": 1,
+        "objet": "Proposition d'embauche - Data Scientist",
+        "corpus": "Bonjour Lucas,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Data Scientist, nous avons le plaisir de retenir votre candidature pour intégrer Sanofi.\n\nVous trouverez le détail financier (45 000 € brut) et la date d'intégration (10/03/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Sanofi"
+    },
+    {
+        "label": 2,
+        "objet": "Échange avec L'Oréal - Poste Product Owner",
+        "corpus": "Bonjour Sarah,\n\nNous avons bien analysé votre dossier pour le rôle de Product Owner. Nous aimerions poursuivre l'aventure avec vous en planifiant un entretien individuel.\n\nMerci de nous confirmer si vous seriez disponible ce vendredi à 15h. Le cas échéant, un lien Teams vous sera transmis.\n\nExcellente journée,\nRH L'Oréal"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de réception de votre candidature sur KPMG",
+        "corpus": "Nous avons bien reçu votre candidature pour l'offre UX/UI Designer et nous la transmettons au recruteur. KPMG devrait vous en confirmer la bonne réception et vous contacter directement pour la suite.\n\nSoyez préparé si votre candidature est retenue en vous informant sur l'entreprise. Présentation générale, chiffres clés, avantages, actualités, étapes de recrutement.... Partez à la pêche aux infos !"
+    },
+    {
+        "label": 2,
+        "objet": "Votre candidature pour UX/UI Designer - Entretien",
+        "corpus": "Bonjour Enzo,\n\nVotre candidature pour le poste de UX/UI Designer chez Société Générale a retenu toute notre attention. Vos compétences et votre parcours correspondent tout à fait au profil que nous recherchons.\n\nAfin de faire plus ample connaissance et d'échanger sur vos motivations, nous serions ravis de vous inviter à un entretien d'embauche en nos locaux de Nantes ou en visioconférence.\n\nCréneaux disponibles :\n- Mardi à 10h00\n- Jeudi à 14h30\n- Vendredi à 11h00\n\nMerci de nous indiquer la date qui vous convient le mieux par retour de mail.\n\nBien cordialement,\nL'équipe RH - Société Générale"
+    },
+    {
+        "label": 2,
+        "objet": "Invitation entretien - Consultant Cybersécurité chez Carrefour Tech",
+        "corpus": "Bonjour Hugo,\n\nNous avons bien analysé votre dossier pour le rôle de Consultant Cybersécurité. Nous aimerions poursuivre l'aventure avec vous en planifiant un entretien individuel.\n\nMerci de nous confirmer si vous seriez disponible ce vendredi à 15h. Le cas échéant, un lien Teams vous sera transmis.\n\nExcellente journée,\nRH Carrefour Tech"
+    },
+    {
+        "label": 2,
+        "objet": "Échange avec Carrefour Tech - Poste UX/UI Designer",
+        "corpus": "Bonjour Julie,\n\nNous avons bien analysé votre dossier pour le rôle de UX/UI Designer. Nous aimerions poursuivre l'aventure avec vous en planifiant un entretien individuel.\n\nMerci de nous confirmer si vous seriez disponible ce vendredi à 15h. Le cas échéant, un lien Teams vous sera transmis.\n\nExcellente journée,\nRH Carrefour Tech"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature BNP Paribas - Consultant Cybersécurité",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Consultant Cybersécurité au sein de nos équipes BNP Paribas et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition BNP Paribas"
+    },
+    {
+        "label": 3,
+        "objet": "Votre candidature pour le poste de Développeur Full Stack",
+        "corpus": "Bonjour Alexandre,\n\nMerci pour l'intérêt que vous portez à TotalEnergies et pour le temps consacré à notre processus de recrutement pour le poste de Développeur Full Stack.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH TotalEnergies"
+    },
+    {
+        "label": 1,
+        "objet": "Suite de votre candidature - Offre d'embauche KPMG",
+        "corpus": "Bonjour Camille,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Administrateur Systèmes et Réseaux chez KPMG.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Administrateur Systèmes et Réseaux\n- Rémunération globale : 32 000 € bruts/an\n- Prise de poste : 15/06/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines KPMG"
+    },
+    {
+        "label": 4,
+        "objet": "Votre candidature a bien été envoyée à RTE",
+        "corpus": "Accusé de réception : Nous confirmons la bonne transmission de vos documents (CV et lettre de motivation) pour l'opportunité Data Analyst auprès de RTE.\n\nNos équipes d'évaluation analysent actuellement votre dossier. Vous recevrez une notification dès qu'une suite sera donnée à votre demande.\n\nMerci d'avoir postulé chez nous !"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature Sanofi - Développeur Python",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Développeur Python au sein de nos équipes Sanofi et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition Sanofi"
+    },
+    {
+        "label": 3,
+        "objet": "Votre candidature pour le poste de Ingénieur Cloud",
+        "corpus": "Bonjour,\n\nNous avons étudié votre dossier de candidature pour l'offre Ingénieur Cloud (référence 2026-97663) chez L'Oréal, et celui-ci a retenu toute notre attention. Malgré toutes les qualités que présente votre profil, nous sommes au regret de vous informer que nous ne pouvons donner une suite favorable à votre candidature.\n\nNéanmoins, nous conservons votre dossier dans notre CVthèque au cas où d'autres opportunités se présenteraient.\n\nNous vous remercions pour l'intérêt porté à L'Oréal et vous souhaitons une excellente continuation.\n\nCordialement,\nL'équipe Recrutement L'Oréal"
+    },
+    {
+        "label": 1,
+        "objet": "Offre d'emploi : Data Analyst chez Decathlon",
+        "corpus": "Bonjour Alexandre,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Data Analyst chez Decathlon.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Data Analyst\n- Rémunération globale : 28 000 (Alternance) € bruts/an\n- Prise de poste : 25/02/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines Decathlon"
+    },
+    {
+        "label": 4,
+        "objet": "Accusé de réception - Candidature Chef de Projet IT",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Chef de Projet IT chez Axa a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 4,
+        "objet": "Bien reçu ! Candidature Data Scientist",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Data Scientist chez RTE a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature TechSolutions - Développeur Full Stack",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Développeur Full Stack au sein de nos équipes TechSolutions et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition TechSolutions"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature Orange - Data Analyst",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Data Analyst au sein de nos équipes Orange et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition Orange"
+    },
+    {
+        "label": 3,
+        "objet": "Votre candidature pour le poste de Stagiaire Business Development",
+        "corpus": "Bonjour Hugo,\n\nMerci pour l'intérêt que vous portez à BNP Paribas et pour le temps consacré à notre processus de recrutement pour le poste de Stagiaire Business Development.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH BNP Paribas"
+    },
+    {
+        "label": 2,
+        "objet": "Suite candidature Axa : Proposition d'entretien",
+        "corpus": "Bonjour Emma,\n\nVotre candidature pour le poste de Développeur Full Stack chez Axa a retenu toute notre attention. Vos compétences et votre parcours correspondent tout à fait au profil que nous recherchons.\n\nAfin de faire plus ample connaissance et d'échanger sur vos motivations, nous serions ravis de vous inviter à un entretien d'embauche en nos locaux de Lille ou en visioconférence.\n\nCréneaux disponibles :\n- Mardi à 10h00\n- Jeudi à 14h30\n- Vendredi à 11h00\n\nMerci de nous indiquer la date qui vous convient le mieux par retour de mail.\n\nBien cordialement,\nL'équipe RH - Axa"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature Decathlon - Développeur Python",
+        "corpus": "Bonjour Hugo,\n\nMerci pour l'intérêt que vous portez à Decathlon et pour le temps consacré à notre processus de recrutement pour le poste de Développeur Python.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH Decathlon"
+    },
+    {
+        "label": 3,
+        "objet": "Information concernant votre candidature Product Owner",
+        "corpus": "Bonjour Thomas,\n\nMerci pour l'intérêt que vous portez à Thales et pour le temps consacré à notre processus de recrutement pour le poste de Product Owner.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH Thales"
+    },
+    {
+        "label": 1,
+        "objet": "Proposition d'embauche - UX/UI Designer",
+        "corpus": "Bonjour Antoine,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de UX/UI Designer, nous avons le plaisir de retenir votre candidature pour intégrer KPMG.\n\nVous trouverez le détail financier (28 000 (Alternance) € brut) et la date d'intégration (16/03/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement KPMG"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de dépôt de dossier - Dassault Systèmes",
+        "corpus": "Nous avons bien reçu votre candidature pour l'offre Alternant - Bac+2/+3 Développement Software et nous la transmettons au recruteur. Dassault Systèmes devrait vous en confirmer la bonne réception et vous contacter directement pour la suite.\n\nSoyez préparé si votre candidature est retenue en vous informant sur l'entreprise. Présentation générale, chiffres clés, avantages, actualités, étapes de recrutement.... Partez à la pêche aux infos !"
+    },
+    {
+        "label": 3,
+        "objet": "Suivi de votre dossier - Ingénieur IA",
+        "corpus": "Bonjour Manon,\n\nMerci pour l'intérêt que vous portez à Société Générale et pour le temps consacré à notre processus de recrutement pour le poste de Ingénieur IA.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH Société Générale"
+    },
+    {
+        "label": 3,
+        "objet": "Information concernant votre candidature Administrateur Systèmes et Réseaux",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Administrateur Systèmes et Réseaux au sein de nos équipes Sanofi et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition Sanofi"
+    },
+    {
+        "label": 4,
+        "objet": "Accusé de réception - Candidature Architecte Logiciel",
+        "corpus": "Nous avons bien reçu votre candidature pour l'offre Architecte Logiciel et nous la transmettons au recruteur. Schneider Electric devrait vous en confirmer la bonne réception et vous contacter directement pour la suite.\n\nSoyez préparé si votre candidature est retenue en vous informant sur l'entreprise. Présentation générale, chiffres clés, avantages, actualités, étapes de recrutement.... Partez à la pêche aux infos !"
+    },
+    {
+        "label": 4,
+        "objet": "Accusé de réception - Candidature Chef de Projet IT",
+        "corpus": "Accusé de réception : Nous confirmons la bonne transmission de vos documents (CV et lettre de motivation) pour l'opportunité Chef de Projet IT auprès de TechSolutions.\n\nNos équipes d'évaluation analysent actuellement votre dossier. Vous recevrez une notification dès qu'une suite sera donnée à votre demande.\n\nMerci d'avoir postulé chez nous !"
+    },
+    {
+        "label": 1,
+        "objet": "Proposition d'embauche - Ingénieur Cloud",
+        "corpus": "Bonjour Hugo,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Ingénieur Cloud, nous avons le plaisir de retenir votre candidature pour intégrer Airbus.\n\nVous trouverez le détail financier (32 000 € brut) et la date d'intégration (13/10/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Airbus"
+    },
+    {
+        "label": 3,
+        "objet": "Réponse à votre candidature - Carrefour Tech",
+        "corpus": "Bonjour Julien,\n\nMerci pour l'intérêt que vous portez à Carrefour Tech et pour le temps consacré à notre processus de recrutement pour le poste de Architecte Logiciel.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH Carrefour Tech"
+    },
+    {
+        "label": 1,
+        "objet": "Suite de votre candidature - Offre d'embauche Schneider Electric",
+        "corpus": "Bonjour Maxime,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Architecte Logiciel, nous avons le plaisir de retenir votre candidature pour intégrer Schneider Electric.\n\nVous trouverez le détail financier (42 000 € brut) et la date d'intégration (01/10/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Schneider Electric"
+    },
+    {
+        "label": 1,
+        "objet": "Suite de votre candidature - Offre d'embauche Carrefour Tech",
+        "corpus": "Bonjour Maxime,\n\nUn grand merci pour le temps accordé tout au long de notre processus de recrutement. Toute l’équipe de Carrefour Tech a été ravie de faire votre connaissance et nous avons été particulièrement impressionnés par vos compétences ainsi que votre dynamisme.\n\nC'est donc avec grand plaisir que nous vous proposons officiellement le poste de UX/UI Designer au sein de Carrefour Tech !\n\nVoici un résumé des conditions principales de notre offre :\n- Type de contrat : CDI\n- Rémunération : 32 000 € bruts annuels\n- Date de début souhaitée : 11/07/2026\n\nVous trouverez en pièce jointe votre promesse d'embauche formelle reprenant l'ensemble de ces éléments. Si tout vous convient, merci de nous la renvoyer signée.\n\nNous sommes impatients de vous compter parmi nous !\n\nBien cordialement,\nL'équipe RH - Carrefour Tech"
+    },
+    {
+        "label": 2,
+        "objet": "Échange avec Carrefour Tech - Poste Administrateur Systèmes et Réseaux",
+        "corpus": "Bonjour Manon,\n\nSuite à l'étude de votre CV pour la fonction de Administrateur Systèmes et Réseaux, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement Carrefour Tech"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de dépôt de dossier - Axa",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Administrateur Systèmes et Réseaux chez Axa a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 1,
+        "objet": "Félicitations ! Votre offre pour le poste de Product Owner",
+        "corpus": "Bonjour Chloé,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Product Owner chez TechSolutions.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Product Owner\n- Rémunération globale : 38 000 € bruts/an\n- Prise de poste : 28/12/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines TechSolutions"
+    },
+    {
+        "label": 4,
+        "objet": "Votre candidature a bien été envoyée à Orange",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Alternant - Bac+2/+3 Développement Software chez Orange a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 2,
+        "objet": "Invitation entretien - UX/UI Designer chez TotalEnergies",
+        "corpus": "Bonjour Emma,\n\nVotre candidature pour le poste de UX/UI Designer chez TotalEnergies a retenu toute notre attention. Vos compétences et votre parcours correspondent tout à fait au profil que nous recherchons.\n\nAfin de faire plus ample connaissance et d'échanger sur vos motivations, nous serions ravis de vous inviter à un entretien d'embauche en nos locaux de Lille ou en visioconférence.\n\nCréneaux disponibles :\n- Mardi à 10h00\n- Jeudi à 14h30\n- Vendredi à 11h00\n\nMerci de nous indiquer la date qui vous convient le mieux par retour de mail.\n\nBien cordialement,\nL'équipe RH - TotalEnergies"
+    },
+    {
+        "label": 2,
+        "objet": "Votre candidature pour Alternant - Bac+2/+3 Développement Software - Entretien",
+        "corpus": "Bonjour Camille,\n\nNous avons bien analysé votre dossier pour le rôle de Alternant - Bac+2/+3 Développement Software. Nous aimerions poursuivre l'aventure avec vous en planifiant un entretien individuel.\n\nMerci de nous confirmer si vous seriez disponible ce vendredi à 15h. Le cas échéant, un lien Teams vous sera transmis.\n\nExcellente journée,\nRH BNP Paribas"
+    },
+    {
+        "label": 2,
+        "objet": "Entretien pour le poste de Ingénieur Cloud",
+        "corpus": "Bonjour Léa,\n\nSuite à l'étude de votre CV pour la fonction de Ingénieur Cloud, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement Decathlon"
+    },
+    {
+        "label": 1,
+        "objet": "Félicitations ! Votre offre pour le poste de Administrateur Systèmes et Réseaux",
+        "corpus": "Bonjour Manon,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Administrateur Systèmes et Réseaux chez L'Oréal.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Administrateur Systèmes et Réseaux\n- Rémunération globale : 42 000 € bruts/an\n- Prise de poste : 28/03/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines L'Oréal"
+    },
+    {
+        "label": 1,
+        "objet": "Félicitations ! Votre offre pour le poste de Développeur Full Stack",
+        "corpus": "Bonjour Maxime,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Développeur Full Stack chez KPMG.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Développeur Full Stack\n- Rémunération globale : 28 000 (Alternance) € bruts/an\n- Prise de poste : 09/09/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines KPMG"
+    },
+    {
+        "label": 1,
+        "objet": "Suite de votre candidature - Offre d'embauche SNCF Digital",
+        "corpus": "Bonjour Antoine,\n\nUn grand merci pour le temps accordé tout au long de notre processus de recrutement. Toute l’équipe de SNCF Digital a été ravie de faire votre connaissance et nous avons été particulièrement impressionnés par vos compétences ainsi que votre dynamisme.\n\nC'est donc avec grand plaisir que nous vous proposons officiellement le poste de Architecte Logiciel au sein de SNCF Digital !\n\nVoici un résumé des conditions principales de notre offre :\n- Type de contrat : CDI\n- Rémunération : 38 000 € bruts annuels\n- Date de début souhaitée : 25/12/2026\n\nVous trouverez en pièce jointe votre promesse d'embauche formelle reprenant l'ensemble de ces éléments. Si tout vous convient, merci de nous la renvoyer signée.\n\nNous sommes impatients de vous compter parmi nous !\n\nBien cordialement,\nL'équipe RH - SNCF Digital"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature Orange - Administrateur Systèmes et Réseaux",
+        "corpus": "Bonjour Enzo,\n\nMerci pour l'intérêt que vous portez à Orange et pour le temps consacré à notre processus de recrutement pour le poste de Administrateur Systèmes et Réseaux.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH Orange"
+    },
+    {
+        "label": 3,
+        "objet": "Votre candidature pour le poste de Consultant Cybersécurité",
+        "corpus": "Bonjour Thomas,\n\nMerci pour l'intérêt que vous portez à Société Générale et pour le temps consacré à notre processus de recrutement pour le poste de Consultant Cybersécurité.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH Société Générale"
+    },
+    {
+        "label": 1,
+        "objet": "Félicitations ! Votre offre pour le poste de Architecte Logiciel",
+        "corpus": "Bonjour Chloé,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Architecte Logiciel chez KPMG.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Architecte Logiciel\n- Rémunération globale : 50 000 € bruts/an\n- Prise de poste : 19/06/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines KPMG"
+    },
+    {
+        "label": 3,
+        "objet": "Votre candidature pour le poste de Data Scientist",
+        "corpus": "Bonjour,\n\nNous avons étudié votre dossier de candidature pour l'offre Data Scientist (référence 2026-11942) chez Capgemini, et celui-ci a retenu toute notre attention. Malgré toutes les qualités que présente votre profil, nous sommes au regret de vous informer que nous ne pouvons donner une suite favorable à votre candidature.\n\nNéanmoins, nous conservons votre dossier dans notre CVthèque au cas où d'autres opportunités se présenteraient.\n\nNous vous remercions pour l'intérêt porté à Capgemini et vous souhaitons une excellente continuation.\n\nCordialement,\nL'équipe Recrutement Capgemini"
+    },
+    {
+        "label": 1,
+        "objet": "Suite de votre candidature - Offre d'embauche Decathlon",
+        "corpus": "Bonjour Enzo,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Data Analyst, nous avons le plaisir de retenir votre candidature pour intégrer Decathlon.\n\nVous trouverez le détail financier (32 000 € brut) et la date d'intégration (01/03/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Decathlon"
+    },
+    {
+        "label": 3,
+        "objet": "Votre candidature pour le poste de Développeur Python",
+        "corpus": "Bonjour Emma,\n\nMerci pour l'intérêt que vous portez à TechSolutions et pour le temps consacré à notre processus de recrutement pour le poste de Développeur Python.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH TechSolutions"
+    },
+    {
+        "label": 1,
+        "objet": "Proposition d'embauche - Stagiaire Business Development",
+        "corpus": "Bonjour Maxime,\n\nSuite à nos derniers échanges positifs, nous sommes très heureux de vous soumettre cette offre d'embauche pour le poste de Stagiaire Business Development chez Airbus.\n\nVotre profil et votre état d'esprit correspondent parfaitement aux valeurs de notre équipe. Les conditions proposées sont les suivantes :\n- Poste : Stagiaire Business Development\n- Rémunération globale : 45 000 € bruts/an\n- Prise de poste : 20/05/2026\n\nVeuillez signer la promesse d'embauche ci-jointe pour valider votre venue.\n\nExcellente journée,\nDirection des Ressources Humaines Airbus"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature Société Générale - Développeur Full Stack",
+        "corpus": "Bonjour,\n\nNous avons étudié votre dossier de candidature pour l'offre Développeur Full Stack (référence 2026-33544) chez Société Générale, et celui-ci a retenu toute notre attention. Malgré toutes les qualités que présente votre profil, nous sommes au regret de vous informer que nous ne pouvons donner une suite favorable à votre candidature.\n\nNéanmoins, nous conservons votre dossier dans notre CVthèque au cas où d'autres opportunités se présenteraient.\n\nNous vous remercions pour l'intérêt porté à Société Générale et vous souhaitons une excellente continuation.\n\nCordialement,\nL'équipe Recrutement Société Générale"
+    },
+    {
+        "label": 1,
+        "objet": "Félicitations ! Votre offre pour le poste de Stagiaire Business Development",
+        "corpus": "Bonjour Thomas,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Stagiaire Business Development, nous avons le plaisir de retenir votre candidature pour intégrer Société Générale.\n\nVous trouverez le détail financier (45 000 € brut) et la date d'intégration (22/02/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Société Générale"
+    },
+    {
+        "label": 3,
+        "objet": "Information concernant votre candidature UX/UI Designer",
+        "corpus": "Bonjour Julie,\n\nMerci pour l'intérêt que vous portez à Ubisoft et pour le temps consacré à notre processus de recrutement pour le poste de UX/UI Designer.\n\nAprès un examen approfondi de l'ensemble des candidatures reçues, nous avons décidé de poursuivre avec un autre profil dont l'expérience correspond davantage à nos besoins actuels.\n\nNous vous souhaitons pleine réussite dans vos futures recherches.\n\nBien cordialement,\nService RH Ubisoft"
+    },
+    {
+        "label": 2,
+        "objet": "Suite candidature KPMG : Proposition d'entretien",
+        "corpus": "Bonjour Hugo,\n\nSuite à l'étude de votre CV pour la fonction de Développeur Python, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement KPMG"
+    },
+    {
+        "label": 2,
+        "objet": "Invitation entretien - Alternant - Bac+2/+3 Développement Software chez TechSolutions",
+        "corpus": "Bonjour Léa,\n\nSuite à l'étude de votre CV pour la fonction de Alternant - Bac+2/+3 Développement Software, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement TechSolutions"
+    },
+    {
+        "label": 1,
+        "objet": "Bienvenue chez Schneider Electric ! Proposition formelle",
+        "corpus": "Bonjour Alexandre,\n\nUn grand merci pour le temps accordé tout au long de notre processus de recrutement. Toute l’équipe de Schneider Electric a été ravie de faire votre connaissance et nous avons été particulièrement impressionnés par vos compétences ainsi que votre dynamisme.\n\nC'est donc avec grand plaisir que nous vous proposons officiellement le poste de Administrateur Systèmes et Réseaux au sein de Schneider Electric !\n\nVoici un résumé des conditions principales de notre offre :\n- Type de contrat : CDI\n- Rémunération : 38 000 € bruts annuels\n- Date de début souhaitée : 13/12/2026\n\nVous trouverez en pièce jointe votre promesse d'embauche formelle reprenant l'ensemble de ces éléments. Si tout vous convient, merci de nous la renvoyer signée.\n\nNous sommes impatients de vous compter parmi nous !\n\nBien cordialement,\nL'équipe RH - Schneider Electric"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de dépôt de dossier - Dassault Systèmes",
+        "corpus": "Nous avons bien reçu votre candidature pour l'offre UX/UI Designer et nous la transmettons au recruteur. Dassault Systèmes devrait vous en confirmer la bonne réception et vous contacter directement pour la suite.\n\nSoyez préparé si votre candidature est retenue en vous informant sur l'entreprise. Présentation générale, chiffres clés, avantages, actualités, étapes de recrutement.... Partez à la pêche aux infos !"
+    },
+    {
+        "label": 3,
+        "objet": "Information concernant votre candidature Consultant Cybersécurité",
+        "corpus": "Bonjour,\n\nNous avons étudié votre dossier de candidature pour l'offre Consultant Cybersécurité (référence 2026-13404) chez Capgemini, et celui-ci a retenu toute notre attention. Malgré toutes les qualités que présente votre profil, nous sommes au regret de vous informer que nous ne pouvons donner une suite favorable à votre candidature.\n\nNéanmoins, nous conservons votre dossier dans notre CVthèque au cas où d'autres opportunités se présenteraient.\n\nNous vous remercions pour l'intérêt porté à Capgemini et vous souhaitons une excellente continuation.\n\nCordialement,\nL'équipe Recrutement Capgemini"
+    },
+    {
+        "label": 1,
+        "objet": "Félicitations ! Votre offre pour le poste de Architecte Logiciel",
+        "corpus": "Bonjour Lucas,\n\nC'est une excellente nouvelle ! À l'issue des différents entretiens menés pour le poste de Architecte Logiciel, nous avons le plaisir de retenir votre candidature pour intégrer Dassault Systèmes.\n\nVous trouverez le détail financier (45 000 € brut) et la date d'intégration (02/04/2026) dans le document officiel ci-joint.\n\nNous attendons votre retour signé avant la fin de semaine.\n\nÀ très bientôt,\nL'équipe Recrutement Dassault Systèmes"
+    },
+    {
+        "label": 2,
+        "objet": "Entretien pour le poste de Data Scientist",
+        "corpus": "Bonjour Camille,\n\nSuite à l'étude de votre CV pour la fonction de Data Scientist, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement Carrefour Tech"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de réception de votre candidature sur Schneider Electric",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Administrateur Systèmes et Réseaux chez Schneider Electric a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 3,
+        "objet": "Réponse à votre candidature - Veolia",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Consultant Cybersécurité au sein de nos équipes Veolia et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition Veolia"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de dépôt de dossier - Veolia",
+        "corpus": "Bonjour,\n\nVotre candidature pour le poste de Data Scientist chez Veolia a bien été enregistrée et transmise à nos équipes RH. Un responsable du recrutement étudiera votre parcours dans les plus brefs délais.\n\nSi votre profil est retenu, vous serez contacté directement pour convenir d'un premier entretien.\n\nMerci de votre confiance et à bientôt !"
+    },
+    {
+        "label": 2,
+        "objet": "Invitation entretien - Ingénieur DevOps chez Orange",
+        "corpus": "Bonjour Thomas,\n\nVotre candidature pour le poste de Ingénieur DevOps chez Orange a retenu toute notre attention. Vos compétences et votre parcours correspondent tout à fait au profil que nous recherchons.\n\nAfin de faire plus ample connaissance et d'échanger sur vos motivations, nous serions ravis de vous inviter à un entretien d'embauche en nos locaux de Lille ou en visioconférence.\n\nCréneaux disponibles :\n- Mardi à 10h00\n- Jeudi à 14h30\n- Vendredi à 11h00\n\nMerci de nous indiquer la date qui vous convient le mieux par retour de mail.\n\nBien cordialement,\nL'équipe RH - Orange"
+    },
+    {
+        "label": 4,
+        "objet": "Confirmation de dépôt de dossier - TechSolutions",
+        "corpus": "Nous avons bien reçu votre candidature pour l'offre Chef de Projet IT et nous la transmettons au recruteur. TechSolutions devrait vous en confirmer la bonne réception et vous contacter directement pour la suite.\n\nSoyez préparé si votre candidature est retenue en vous informant sur l'entreprise. Présentation générale, chiffres clés, avantages, actualités, étapes de recrutement.... Partez à la pêche aux infos !"
+    },
+    {
+        "label": 3,
+        "objet": "Candidature Ubisoft - Product Owner",
+        "corpus": "Bonjour,\n\nVous avez posé votre candidature pour l'offre de Product Owner au sein de nos équipes Ubisoft et nous vous en remercions.\n\nMalheureusement, malgré les atouts évidents de votre parcours, nous ne sommes pas en mesure d'y donner une suite positive pour le moment. La concurrence sur ce poste était particulièrement forte.\n\nSauf avis contraire de votre part, nous conservons votre CV dans nos bases pendant 1 an.\n\nCordialement,\nL'équipe Talent Acquisition Ubisoft"
+    },
+    {
+        "label": 2,
+        "objet": "Votre candidature pour Data Scientist - Entretien",
+        "corpus": "Bonjour Thomas,\n\nNous avons bien analysé votre dossier pour le rôle de Data Scientist. Nous aimerions poursuivre l'aventure avec vous en planifiant un entretien individuel.\n\nMerci de nous confirmer si vous seriez disponible ce vendredi à 15h. Le cas échéant, un lien Teams vous sera transmis.\n\nExcellente journée,\nRH TechSolutions"
+    },
+    {
+        "label": 2,
+        "objet": "Échange avec SNCF Digital - Poste Ingénieur IA",
+        "corpus": "Bonjour Julie,\n\nSuite à l'étude de votre CV pour la fonction de Ingénieur IA, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement SNCF Digital"
+    },
+    {
+        "label": 4,
+        "objet": "Bien reçu ! Candidature Chef de Projet IT",
+        "corpus": "Accusé de réception : Nous confirmons la bonne transmission de vos documents (CV et lettre de motivation) pour l'opportunité Chef de Projet IT auprès de Airbus.\n\nNos équipes d'évaluation analysent actuellement votre dossier. Vous recevrez une notification dès qu'une suite sera donnée à votre demande.\n\nMerci d'avoir postulé chez nous !"
+    },
+    {
+        "label": 2,
+        "objet": "Entretien pour le poste de Consultant Cybersécurité",
+        "corpus": "Bonjour Manon,\n\nSuite à l'étude de votre CV pour la fonction de Consultant Cybersécurité, nous souhaitons organiser un premier échange téléphonique/visio de 30 minutes avec notre responsable recrutement.\n\nMerci de nous transmettre vos disponibilités pour les prochains jours.\n\nDans l'attente de votre retour, nous vous souhaitons une excellente journée.\n\nCordialement,\nService Recrutement Dassault Systèmes"
+    },
+    {
+        "label": 5,
+        "objet": "Jobijoba - 3 nouvelles offres de Développeur web à Nantes",
+        "corpus": "Vous recevez cet e-mail car vous avez créé une alerte « Développeur web à Nantes ».\n\n3 nouvelles offres correspondent à vos critères :\n\n- Développeur PHP Symfony H/F - CDI - Nantes - 35 000 à 42 000 € par an\n- Développeur front-end React H/F - CDI - Saint-Herblain\n- Développeur full stack JavaScript H/F - CDD - Nantes\n\nConsultez toutes les offres et modifiez vos critères depuis votre espace Jobijoba.\n\nPour ne plus recevoir cette alerte, cliquez sur le lien de désinscription."
+    },
+    {
+        "label": 5,
+        "objet": "10 nouvelles offres correspondent à votre alerte - Développeur informatique",
+        "corpus": "Bonjour Lilian !\n\n10 nouvelles offres correspondent à votre alerte « Développeur informatique - France - Alternance ».\n\nParmi les opportunités disponibles :\n- Alternance - Développeur logiciel junior H/F - Paris\n- Alternance - Développeur web et mobile H/F - Lyon\n- Alternance - Développeur Python H/F - Toulouse\n- Alternance - Développeur intégrateur H/F - Lille\n\nRetrouvez ces annonces et toutes les informations sur les entreprises sur HelloWork.\n\nVous pouvez modifier ou supprimer cette alerte à tout moment."
+    },
+    {
+        "label": 5,
+        "objet": "Alerte emploi : 5 offres de Développeur Python",
+        "corpus": "Votre alerte emploi a détecté de nouvelles annonces correspondant à votre recherche « Développeur Python ».\n\n5 offres viennent d'être publiées :\n\nDéveloppeur Python Django - CDI - Bordeaux\nIngénieur logiciel Python - CDI - Rennes\nDéveloppeur data Python - CDI - Montpellier\nDéveloppeur backend Python - CDD - Grenoble\nDéveloppeur Python junior - Alternance - Paris\n\nConsultez les offres, enregistrez vos préférées et postulez directement depuis votre espace candidat."
+    },
+    {
+        "label": 5,
+        "objet": "Nouveaux emplois : Administrateur systèmes et réseaux à Paris",
+        "corpus": "Bonjour,\n\nDe nouvelles offres d'emploi sont disponibles pour votre alerte « Administrateur systèmes et réseaux à Paris ».\n\nNous avons trouvé 7 opportunités correspondant à votre profil, notamment :\n- Administrateur systèmes Linux H/F\n- Technicien réseaux et sécurité H/F\n- Ingénieur infrastructure cloud H/F\n- Administrateur systèmes junior H/F\n\nLes contrats proposés sont des CDI, CDD et missions d'intérim. Affichez toutes les offres et ajustez vos critères de recherche."
+    },
+    {
+        "label": 5,
+        "objet": "Indeed : nouvelles offres pour Développeur Java à Lyon",
+        "corpus": "Bonjour,\n\nVoici les nouvelles offres correspondant à votre alerte emploi « Développeur Java à Lyon ».\n\nDéveloppeur Java Spring H/F chez une entreprise du secteur bancaire - Lyon - CDI\nDéveloppeur Java J2EE H/F - Villeurbanne - CDI\nIngénieur études et développement Java H/F - Lyon - salaire selon expérience\n\nPour voir les détails et recevoir d'autres annonces similaires, consultez votre tableau de bord Indeed.\n\nVous pouvez modifier la fréquence de cette alerte dans vos paramètres."
+    },
+    {
+        "label": 5,
+        "objet": "Votre alerte recrutement : 8 offres de Data Analyst",
+        "corpus": "8 nouvelles offres ont été publiées pour votre recherche « Data Analyst ».\n\nLes annonces disponibles concernent des postes à Paris, Nantes, Strasbourg et en télétravail :\n- Data Analyst marketing H/F - CDI\n- Data Analyst junior H/F - alternance\n- Business Data Analyst H/F - CDI\n- Analyste données et reporting H/F - CDD\n\nConsultez les nouvelles opportunités avant leur expiration. Vous recevez ce message car vous avez activé une alerte emploi."
+    },
+    {
+        "label": 5,
+        "objet": "France Travail - nouvelles offres Développeur logiciel",
+        "corpus": "Bonjour,\n\nDe nouvelles offres peuvent vous intéresser selon votre recherche « Développeur logiciel ».\n\n12 résultats ont été ajoutés depuis votre dernière consultation :\n- Développeur logiciel embarqué - Toulouse\n- Développeur C# .NET - Nantes\n- Ingénieur développement logiciel - Rennes\n- Développeur logiciel junior - Angers\n\nConnectez-vous à votre espace personnel pour consulter les offres et gérer votre abonnement aux alertes."
+    },
+    {
+        "label": 5,
+        "objet": "Hellowork - 6 offres trouvées pour votre recherche DevOps",
+        "corpus": "Bonjour,\n\n6 nouvelles offres correspondent à votre alerte « DevOps - France ».\n\nDécouvrez notamment :\n- Ingénieur DevOps AWS H/F - CDI - Paris\n- Ingénieur DevOps Kubernetes H/F - CDI - Toulouse\n- Administrateur CI/CD H/F - CDI - Nantes\n- Ingénieur cloud et automatisation H/F - télétravail\n\nConsultez les annonces et postulez en quelques clics sur HelloWork. Pour modifier cette alerte, rendez-vous dans vos préférences."
+    },
+    {
+        "label": 5,
+        "objet": "Nouvelle alerte : offres de stage en développement web",
+        "corpus": "Votre alerte « Stage développement web » a détecté 4 nouvelles offres.\n\n- Stage Développeur front-end React - Paris - 6 mois\n- Stage Développeur web PHP - Bordeaux - 4 à 6 mois\n- Stage Développeur full stack - Lille - 6 mois\n- Stage Ingénieur logiciel - Grenoble - 6 mois\n\nCes offres correspondent aux critères que vous avez enregistrés. Cliquez sur chaque annonce pour consulter les missions, les compétences demandées et les modalités de candidature."
+    },
+    {
+        "label": 5,
+        "objet": "Alerte emploi : Ingénieur cybersécurité - 9 nouvelles offres",
+        "corpus": "Bonjour,\n\nNous avons trouvé 9 nouvelles offres pour votre alerte « Ingénieur cybersécurité ».\n\nLes postes sont situés à Paris, Issy-les-Moulineaux, Rennes et en télétravail. Plusieurs contrats sont proposés : CDI, alternance et stage.\n\nExemples d'annonces :\n- Consultant cybersécurité junior\n- Analyste SOC niveau 1\n- Ingénieur sécurité des systèmes\n- Auditeur sécurité informatique\n\nConsultez les nouvelles offres et mettez à jour vos critères si nécessaire."
+    },
+    {
+        "label": 5,
+        "objet": "Jobijoba - nouvelles offres de Product Owner à Lille",
+        "corpus": "Une nouvelle sélection d'offres est disponible pour votre alerte « Product Owner à Lille ».\n\n4 emplois ont été ajoutés :\n- Product Owner digital H/F - CDI - Lille\n- Product Owner applicatif H/F - CDI - Villeneuve-d'Ascq\n- Assistant Product Owner - alternance - Lille\n- Product Manager junior - CDI - Hauts-de-France\n\nAffichez tous les emplois correspondant à vos critères sur Jobijoba. Vous recevez cette alerte car vous êtes inscrit à notre service de recherche d'emploi."
+    },
+    {
+        "label": 5,
+        "objet": "LinkedIn Emplois : nouvelles correspondances pour Ingénieur logiciel",
+        "corpus": "Bonjour,\n\nVoici les offres qui correspondent à votre alerte « Ingénieur logiciel ».\n\nDe nouvelles opportunités sont disponibles chez plusieurs recruteurs :\n- Ingénieur logiciel backend - Paris\n- Software engineer Java - Boulogne-Billancourt\n- Ingénieur logiciel C++ - Sophia Antipolis\n- Software engineer débutant - télétravail partiel\n\nConsultez les détails des postes et activez les notifications pour être informé des prochaines annonces."
+    },
+    {
+        "label": 5,
+        "objet": "5 nouvelles offres pour votre alerte Développeur front-end",
+        "corpus": "Bonjour,\n\n5 nouvelles offres correspondent à votre recherche « Développeur front-end ».\n\n- Développeur React confirmé - CDI - Paris\n- Développeur Angular - CDI - Nantes\n- Intégrateur web HTML/CSS - CDD - Bordeaux\n- Développeur Vue.js - CDI - Lyon\n- Développeur front-end junior - alternance - Rennes\n\nVoir les offres et leurs descriptions complètes. Vous pouvez ajuster la localisation, le type de contrat ou la fréquence de réception depuis votre compte."
+    },
+    {
+        "label": 5,
+        "objet": "Nouvelles opportunités : Consultant informatique en Île-de-France",
+        "corpus": "Votre recherche « Consultant informatique en Île-de-France » a généré 11 nouvelles offres.\n\nLes annonces concernent des missions de conseil, d'intégration et d'accompagnement technique auprès de clients.\n\nPostes proposés : Consultant ERP, Consultant fonctionnel, Consultant cloud, Consultant sécurité et Consultant junior.\n\nConsultez les offres disponibles et recevez les prochaines annonces automatiquement grâce à votre alerte."
+    },
+    {
+        "label": 5,
+        "objet": "Alerte alternance : Développeur d'applications",
+        "corpus": "Bonjour,\n\nDe nouvelles offres en alternance correspondent à votre recherche « Développeur d'applications ».\n\n7 offres ont été publiées cette semaine à Paris, Versailles, Lyon et Montpellier.\n\nVous trouverez notamment des postes en développement Java, .NET, Python, mobile Android et applications web. Les niveaux de formation vont de Bac+2 à Bac+5.\n\nDécouvrez toutes les annonces et candidatez directement auprès des entreprises."
+    },
+    {
+        "label": 5,
+        "objet": "Welcome to the Jungle - offres de développeur disponibles",
+        "corpus": "Bonjour,\n\nDe nouvelles opportunités sont disponibles pour votre alerte « Développeur ».\n\nDécouvrez les postes ouverts dans des startups et entreprises tech :\n- Développeur full stack - CDI - Paris\n- Backend engineer - CDI - Bordeaux\n- Frontend engineer - CDI - Lyon\n- Développeur mobile React Native - CDI - télétravail\n\nExplorez les entreprises, les équipes et les missions avant de postuler. Gérez cette alerte depuis votre espace personnel."
+    },
+    {
+        "label": 5,
+        "objet": "Alerte emploi : Technicien informatique à Toulouse",
+        "corpus": "Bonjour,\n\n6 nouvelles annonces ont été trouvées pour votre alerte « Technicien informatique à Toulouse ».\n\n- Technicien support informatique H/F - CDI\n- Technicien systèmes et réseaux H/F - CDI\n- Technicien helpdesk niveau 1 - CDD\n- Technicien déploiement informatique - intérim\n\nLes offres détaillées sont consultables en ligne. Vous pouvez modifier vos critères ou désactiver cette alerte depuis votre compte candidat."
+    },
+    {
+        "label": 5,
+        "objet": "Nouvelles offres de stage en cybersécurité",
+        "corpus": "Votre alerte « Stage cybersécurité » contient 3 nouvelles opportunités.\n\n- Stagiaire analyste SOC - Paris - début janvier\n- Stagiaire sécurité des infrastructures - Rennes - 6 mois\n- Stagiaire pentest et sécurité applicative - Lyon - 6 mois\n\nConsultez les descriptions et les coordonnées des recruteurs. De nouvelles offres vous seront envoyées selon la fréquence choisie dans vos paramètres."
+    },
+    {
+        "label": 5,
+        "objet": "HelloWork - 14 nouvelles offres en informatique",
+        "corpus": "Bonjour,\n\n14 nouvelles offres correspondent à votre alerte « Informatique - France ».\n\nCette sélection comprend des postes de développeur, administrateur systèmes, ingénieur réseau, data analyst et chef de projet IT.\n\nLes opportunités sont proposées en CDI, CDD, alternance et freelance, dans plusieurs villes ou en télétravail.\n\nVoir toutes les offres et enregistrer celles qui vous intéressent. Vous pouvez modifier vos critères à tout moment."
+    },
+    {
+        "label": 5,
+        "objet": "Nouvelles offres : Ingénieur cloud à Bordeaux",
+        "corpus": "Bonjour,\n\nNous avons trouvé 5 nouvelles annonces correspondant à votre alerte « Ingénieur cloud à Bordeaux ».\n\n- Ingénieur cloud AWS H/F - CDI\n- Architecte cloud junior H/F - CDI\n- Cloud engineer Azure H/F - CDI\n- Ingénieur infrastructure cloud - télétravail partiel\n- Alternant cloud et DevOps H/F\n\nConsultez les détails des offres et postulez directement depuis la plateforme."
+    },
+    {
+        "label": 5,
+        "objet": "Alerte recrutement : Chef de projet informatique",
+        "corpus": "Votre alerte « Chef de projet informatique » a identifié 8 nouvelles offres.\n\nLes postes concernent la gestion de projets applicatifs, la transformation digitale et le déploiement de solutions métiers.\n\nLocalisations disponibles : Paris, Nantes, Strasbourg, Marseille et télétravail.\n\nConsultez les annonces et choisissez les offres qui correspondent à votre expérience. Ce message est envoyé automatiquement selon vos critères de recherche."
+    },
+    {
+        "label": 5,
+        "objet": "Indeed - 4 nouvelles offres de Développeur junior",
+        "corpus": "Bonjour,\n\n4 nouvelles offres correspondent à votre alerte « Développeur junior ».\n\nDéveloppeur JavaScript junior - CDI - Paris\nDéveloppeur PHP junior - CDI - Lille\nDéveloppeur Python junior - alternance - Nantes\nDéveloppeur logiciel junior - CDD - Rennes\n\nConsultez ces annonces et découvrez les compétences recherchées par les recruteurs. Pour ne plus recevoir cette alerte, modifiez vos préférences Indeed."
+    },
+    {
+        "label": 5,
+        "objet": "Jobijoba - votre sélection de 2 offres en data",
+        "corpus": "Bonjour,\n\n2 nouvelles offres correspondent à votre alerte « Data » :\n\n- Data Engineer H/F - CDI - Paris - télétravail partiel\n- Data Scientist junior H/F - CDI - Saclay\n\nRetrouvez les missions, les compétences requises et les informations sur les employeurs en consultant les annonces.\n\nVous recevez cet e-mail car vous avez activé une alerte Jobijoba. Modifiez vos critères ou désabonnez-vous depuis votre espace."
+    },
+    {
+        "label": 5,
+        "objet": "Alerte emploi : 10 postes en développement mobile",
+        "corpus": "Bonjour,\n\n10 nouvelles offres ont été publiées pour votre recherche « Développement mobile ».\n\nDécouvrez des postes de développeur Android, développeur iOS, ingénieur React Native et développeur Flutter.\n\nLes opportunités sont disponibles en CDI, alternance et freelance à Paris, Lyon, Nantes et en télétravail.\n\nConsultez les offres correspondant à votre profil et recevez automatiquement les prochaines annonces."
+    },
+    {
+        "label": 5,
+        "objet": "Votre alerte « Ingénieur réseau » : nouvelles annonces",
+        "corpus": "Votre alerte emploi a détecté 6 nouvelles annonces pour le métier d'Ingénieur réseau.\n\n- Ingénieur réseau et sécurité - CDI - Strasbourg\n- Ingénieur réseau Cisco - CDI - Paris\n- Architecte réseau - CDI - Toulouse\n- Ingénieur télécom - CDD - Rennes\n\nConsultez les nouvelles offres et définissez vos préférences de localisation, salaire et type de contrat depuis votre compte."
+    }
+]
