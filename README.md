@@ -79,7 +79,6 @@ parse_html_message(html) #Conserve le texte et les URLs d'un message HTML.
 
 
 TODO: 
-  Mettre en fonction TFIDFmail pour faciliter la lecture dans le main.
   Faire les premiers appellent à callGMail pour trier les mails dans le gmail pro.
   Faire en sorte d'ajouter au fichier json les nouveaux mails BIEN labellisés.
 
